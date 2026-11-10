@@ -7,3 +7,5 @@ Etudiante en design, j'aime les interfaces sobres.
 - **Git** : garder l'historique de mon projet
 - **GitHub** : le partager en ligne
 - *Markdown* : écrire du texte mis en forme     
+## Ma Page 
+[Voir ma page en ligne](www.linkedin.com/in/agathe-lepoutre-5aa346414) 
